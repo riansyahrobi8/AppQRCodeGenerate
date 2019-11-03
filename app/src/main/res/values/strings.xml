@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">App QR Code Generate</string>
+    <string name="enter_the_text">Enter the text</string>
+    <string name="btn_generate">Generate QR Code</string>
+</resources>
